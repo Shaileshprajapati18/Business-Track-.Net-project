@@ -1,0 +1,36 @@
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.Customer.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.CustomerReport.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.Login.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.Resources.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.vbproj.GenerateResource.cache
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.AssemblyInfo.vb
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.vbproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.vbproj.AssemblyReference.cache
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.Main.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\Business Track.exe
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\Business Track.deps.json
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\Business Track.runtimeconfig.json
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\Business Track.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\Business Track.pdb
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.Home.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.Purchase.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.Report.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.Sale.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business.B014A218.Up2Date
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\refint\Business Track.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.pdb
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business Track.genruntimeconfig.cache
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\ref\Business Track.dll
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.PurchaseReport.resources
+D:\Visual Studio 2022\Visual Studio Project\Business Track\Business Track\obj\Debug\net8.0-windows\Business_Track.SaleReport.resources

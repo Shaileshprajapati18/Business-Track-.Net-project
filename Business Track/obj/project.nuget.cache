@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQOO5INfxMOKDp2scipRcqiYtit2qm+bp1CZ6FquSKERVV4ZZAEDSw/U77hw3C4Mo34fCJFaNohKCUbq6yabjA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\Business Track.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

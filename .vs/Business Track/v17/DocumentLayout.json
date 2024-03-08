@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|d:\\visual studio 2022\\visual studio project\\business track\\business track\\customer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|solutionrelative:business track\\customer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|d:\\visual studio 2022\\visual studio project\\business track\\business track\\customer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|solutionrelative:business track\\customer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\business track\\customerreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|solutionrelative:business track\\customerreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|d:\\visual studio 2022\\visual studio project\\business track\\business track\\purchasereport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|solutionrelative:business track\\purchasereport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\business track\\salereport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A43E89F-9D6F-40A5-86D9-401836888613}|Business Track\\Business Track.vbproj|solutionrelative:business track\\salereport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.vb",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\Customer.vb",
+              "RelativeDocumentMoniker": "Business Track\\Customer.vb",
+              "ToolTip": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\Customer.vb",
+              "RelativeToolTip": "Business Track\\Customer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-07T09:52:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.vb [Design]",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\Customer.vb",
+              "RelativeDocumentMoniker": "Business Track\\Customer.vb",
+              "ToolTip": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\Customer.vb [Design]",
+              "RelativeToolTip": "Business Track\\Customer.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-07T09:52:19.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerReport.vb",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\CustomerReport.vb",
+              "RelativeDocumentMoniker": "Business Track\\CustomerReport.vb",
+              "ToolTip": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\CustomerReport.vb",
+              "RelativeToolTip": "Business Track\\CustomerReport.vb",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-07T03:04:29.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchaseReport.vb",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\PurchaseReport.vb",
+              "RelativeDocumentMoniker": "Business Track\\PurchaseReport.vb",
+              "ToolTip": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\PurchaseReport.vb",
+              "RelativeToolTip": "Business Track\\PurchaseReport.vb",
+              "ViewState": "AQIAADUAAAAAAAAAAADwvz4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-03T16:18:58.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleReport.vb",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\SaleReport.vb",
+              "RelativeDocumentMoniker": "Business Track\\SaleReport.vb",
+              "ToolTip": "D:\\Visual Studio 2022\\Visual Studio Project\\Business Track\\Business Track\\SaleReport.vb",
+              "RelativeToolTip": "Business Track\\SaleReport.vb",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAqwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-05T12:09:55.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
